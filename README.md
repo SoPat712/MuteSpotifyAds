@@ -1,6 +1,6 @@
 #  MuteSpotifyAds
 
-**This is a fork of MuteSpotifyAds that will be maintained over the course of Bug Fixes from Spotify to try and combat this app**
+**This is a fork of MuteSpotifyAds that will be maintained over the course of bug fixes from Spotify to try and combat this app**
 
 [![size](https://img.shields.io/badge/size-10.6%20MB-brightgreen.svg)](https://github.com/simonmeusel/MuteSpotifyAds/releases)
 [![download size](https://img.shields.io/badge/download%20size-3.3%20MB-brightgreen.svg)](https://github.com/simonmeusel/MuteSpotifyAds/releases)
@@ -30,7 +30,10 @@ As of version `1.5.0` you can also enable a option to automatically skip ads, by
 
 ## Installation
 
-Via [homebrew](https://brew.sh/): `brew cask install mutespotifyads`
+Via [homebrew](https://brew.sh/): `brew cask install mutespotifyads` 
+
+
+**Please note that HomeBrew belongs to Simon Meusel and not to this repository. Any updates will be realeased here, and not on Homebrew**
 
 Manual installation:
 
