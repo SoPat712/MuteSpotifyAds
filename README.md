@@ -1,5 +1,7 @@
 #  MuteSpotifyAds
 
+**This is a fork of MuteSpotifyAds that will be maintained over the course of Bug Fixes from Spotify to try and combat this app**
+
 [![size](https://img.shields.io/badge/size-10.6%20MB-brightgreen.svg)](https://github.com/simonmeusel/MuteSpotifyAds/releases)
 [![download size](https://img.shields.io/badge/download%20size-3.3%20MB-brightgreen.svg)](https://github.com/simonmeusel/MuteSpotifyAds/releases)
 [![macOS version support](https://img.shields.io/badge/macOS-10.12--10.15-brightgreen.svg)](https://github.com/simonmeusel/MuteSpotifyAds/releases)
