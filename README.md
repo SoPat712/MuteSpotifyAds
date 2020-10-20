@@ -30,10 +30,9 @@ As of version `1.5.0` you can also enable a option to automatically skip ads, by
 
 ## Installation
 
-Via [homebrew](https://brew.sh/): `brew cask install mutespotifyads` 
-
-
 **Please note that HomeBrew belongs to Simon Meusel and not to this repository. Any updates will be realeased here, and not on Homebrew**
+
+Via [homebrew](https://brew.sh/): `brew cask install mutespotifyads` 
 
 Manual installation:
 
@@ -116,15 +115,3 @@ Currently supported languages are:
 * Italian
 * Spanish
 * Turkish
-
-## Thanks
-
-Thanks to [Carlo Federico Vescovo](https://github.com/cfvescovo) for the restart-spotify feature, the auto-start option and help with the documentation!
-Thanks to [Artem Gordinsky](https://github.com/ArtemGordinsky/) and the [other contributors](https://github.com/ArtemGordinsky/Spotifree#thanks) of [Spotifree](https://github.com/ArtemGordinsky/Spotifree)!
-Thanks to [vadian](https://stackoverflow.com/users/5044042/vadian) for the [help](https://stackoverflow.com/questions/51068410/osx-tick-menu-bar-checkbox/51068836#51068836)!
-
-## License
-
-[GNU General Public License v3.0](https://github.com/simonmeusel/MuteSpotifyAds/blob/master/LICENSE)
-
-Copyright (C) 2018 Simon Meusel
